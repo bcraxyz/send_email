@@ -1,0 +1,4 @@
+poetry
+resend
+google-adk
+python-dotenv
